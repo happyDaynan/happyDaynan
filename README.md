@@ -1,5 +1,5 @@
 ### Hi Everyone 👋
-## My name is Austin Wu
+### My name is Austin Wu
 
 <!--
 **happyDaynan/happyDaynan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
