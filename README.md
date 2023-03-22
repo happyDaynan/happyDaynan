@@ -1,5 +1,5 @@
 # Hi 👋, I'm Austin Wu
-### Currently focusing on .net mvc development.
+### Currently focusing on .net development.
 ### In the future, I hope to have more opportunities to participate in projects related to data engineering in the backend.
 ### If there is a Python related project, it will be preferred.
 
